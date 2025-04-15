@@ -19,7 +19,7 @@ public class UniqueElement {
             arr[i] = sc.nextInt();
         }
 
-        boolean flag = false;
+        boolean flag;
 
         System.out.println("Print array");
 
